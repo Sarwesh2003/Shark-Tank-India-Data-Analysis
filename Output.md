@@ -3,7 +3,7 @@ Shark-Tank-India-Data-Analysis
 Sarwesh Khairnar
 2022-06-10
 
-![“”](./logo.jpg)
+![“”](./assets/logo.jpg)
 
 # Dataset Link <https://www.kaggle.com/datasets/thirumani/shark-tank-india>
 
@@ -159,7 +159,7 @@ dev.off()
     ##   2
 
 <figure>
-<img src="./wc.jpeg" style="width:80.0%" alt="“”" />
+<img src="./assets/wc.jpeg" style="width:80.0%" alt="“”" />
 <figcaption aria-hidden="true">“”</figcaption>
 </figure>
 
@@ -1773,7 +1773,7 @@ THANK YOU
 <center>
 
 <figure>
-<img src="./index.webp" style="width:80.0%" alt="“”" />
+<img src="./assets/index.webp" style="width:80.0%" alt="“”" />
 <figcaption aria-hidden="true">“”</figcaption>
 </figure>
 
