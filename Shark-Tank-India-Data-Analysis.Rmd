@@ -9,7 +9,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![""](C:/Users/sarwe/Desktop/Tutorial/SY/SY-II/DS/Course Project/logo.jpg)
+![""](./logo.jpg)
 
 
 # Dataset Link https://www.kaggle.com/datasets/thirumani/shark-tank-india
@@ -80,7 +80,7 @@ set.seed(2000) # for reproducibility
 wc <- wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=300, random.order=FALSE, rot.per= 0.30, colors=brewer.pal(8, "Set1"), scale = c(5, 0.75))
 dev.off()
 ```
-![""](C:/Users/sarwe/Desktop/Tutorial/SY/SY-II/DS/Course Project/wc.jpeg){width=80%}
+![""](./wc.jpeg){width=80%}
 ```{r}
 brewer.pal.info
 ```
@@ -664,7 +664,7 @@ ggplot(data=cityXoffers, aes(x=Var1, y=Freq)) +
 
 <center> <h1>THANK YOU</h1> </center>
 
-<center>![""](C:/Users/sarwe/Desktop/Tutorial/SY/SY-II/DS/Course Project/Documentation/index.webp){width=80%} </center>
+<center>![""](./index.webp){width=80%} </center>
 
 
 
