@@ -1,8 +1,8 @@
 ---
 title: "Shark-Tank-India-Data-Analysis"
-author: "Yash Raut"
+author: "Sarwesh Khairnar"
 date: '2022-06-10'
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
