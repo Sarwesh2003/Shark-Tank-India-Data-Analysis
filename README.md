@@ -2,4 +2,4 @@
 
 ![index](https://user-images.githubusercontent.com/62764698/173048770-6195aa4f-2416-4f1d-9ae9-315ba80500bc.jpg)
 
-Output and Results [Shark-Tank-India-Data-Analysis.md](https://github.com/Sarwesh2003/Shark-Tank-India-Data-Analysis/blob/main/Shark-Tank-India-Data-Analysis.md)
+Output and Results [Shark-Tank-India-Data-Analysis.md](https://github.com/Sarwesh2003/Shark-Tank-India-Data-Analysis/blob/main/Output.md)
